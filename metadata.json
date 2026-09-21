@@ -1,0 +1,6 @@
+{
+  "name": "Ganesh Dairy Farm",
+  "description": "Pure farm-fresh dairy products from our family farm in Vellanki, Visakhapatnam: Cow Milk, A2 Desi Cow Milk, Curd, Paneer, and Desi Cow Ghee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
